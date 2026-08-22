@@ -1,0 +1,6 @@
+{
+  "//": "A visual profile README needs HTML that CommonMark cannot express.",
+  "MD033": false,
+  "MD041": false,
+  "MD013": { "line_length": 100, "tables": false, "code_blocks": false }
+}

@@ -12,17 +12,15 @@
 
 <div align="center">
 
-# Namit Deb
+# Namit Deb · নমিত দেব
 
-### नमित देब
-
-**TODO: one line — what you do, and the thing that makes it specific.**
+TODO: one line — what you do, and the thing that makes it specific.
 
 <!-- Avoid "passionate", "aspiring", "tech enthusiast". One line, not two. -->
 
 [![Website](https://img.shields.io/badge/namitdeb739.github.io-1e66f5?style=for-the-badge&logo=astro&logoColor=white)](https://namitdeb739.github.io)
 [![Email](https://img.shields.io/badge/Email-d20f39?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namitdeb739@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TODO-6c6f85?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-TODO-6c6f85?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </div>
 
@@ -30,16 +28,16 @@
 
 <div align="center">
 
-### Currently
+## Currently
 
 <!--
   TODO: 2-3 short lines. Your dissertation is the anchor — what problem, why
   it matters. earth-computers is private, so decide how much to say.
 -->
 
-**TODO: what you're building right now**
+TODO: what you're building right now
 
-**TODO: what you're learning**
+TODO: what you're learning
 
 </div>
 
@@ -47,22 +45,33 @@
 
 <div align="center">
 
-### Stack
+## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,c,lua,js,bash&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,lua,js,bash&theme=light" alt="Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp&theme=dark">
+  <img
+    src="https://skillicons.dev/icons?i=python,c,cpp&theme=light"
+    alt="Python, C, C++">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,git,neovim,astro,latex&theme=dark">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,neovim,astro,latex&theme=light" alt="Tools">
-</picture>
+### Embedded
+
+![MSP430](https://img.shields.io/badge/MSP430-CC0000?style=flat-square&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Bare-metal](https://img.shields.io/badge/bare--metal_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Serial](https://img.shields.io/badge/UART_%2F_telemetry-6c6f85?style=flat-square)
+
+### Python
+
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
+![ruff](https://img.shields.io/badge/ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy_--strict-2A6DB2?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 <sub>
 
-<!-- TODO: add anything that doesn't show up in public code — ML frameworks,
-     embedded toolchains, databases. skillicons.dev/icons lists valid slugs. -->
+<!-- TODO: add anything missing that you'd want to be asked about — RTOS, PCB
+     work, signal processing, specific MCUs. Slugs: simpleicons.org -->
 
 </sub>
 
@@ -70,33 +79,37 @@
 
 ---
 
-### Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [python-template](https://github.com/namitdeb739/python-template)
-Modern Python project template — `uv`, `ruff`, `mypy --strict`, `pytest`, MkDocs, Docker, CodeQL, one-command init.
+### [ring-chilling](https://github.com/namitdeb739/ring-chilling)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Wearable ring that reads finger temperature and thermal sensation, and drives
+an ESP32 to control air-conditioning over IR.
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [ring-chilling](https://github.com/namitdeb739/ring-chilling)
-Wearable ring that reads finger temperature and drives an ESP32 to control air-conditioning over IR.
+### [leonus-cansat-2025](https://github.com/namitdeb739/leonus-cansat-2025)
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+Ground control software for the LeoNUS CanSat competition — live telemetry
+ingest, decoding and display.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [career-detective](https://github.com/namitdeb739/career-detective)
+### [career-detective](https://github.com/namitdeb739/career-detective)
+
 AI-powered job search tool for the German tech industry.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -104,37 +117,28 @@ AI-powered job search tool for the German tech industry.
 </td>
 <td width="50%" valign="top">
 
-#### [leonus-cansat-2025](https://github.com/namitdeb739/leonus-cansat-2025)
-Ground control software for the LeoNUS CanSat competition.
+### [python-template](https://github.com/namitdeb739/python-template)
+
+Project template enforcing uv, ruff, `mypy --strict`, pytest, Docker and
+CodeQL from the first commit.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [dotfiles](https://github.com/namitdeb739/dotfiles)
-macOS setup as code — stow packages, idempotent bootstrap, CI, scheduled maintenance.
-
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### [notion-automations](https://github.com/namitdeb739/notion-automations)
-Automation scripts for personal Notion workflows.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 <!--
-  Other public repos, if any earn a slot: travel-tracker (JS), beerathon (Python).
-  Six is already generous — prefer cutting to adding.
+  Four, chosen to show range: embedded C++, telemetry systems, an applied-AI
+  app, and engineering rigour. Deliberately omitted because they dilute rather
+  than add — notion-automations (personal scripts), dotfiles (meta),
+  travel-tracker and beerathon (older, JS/small).
+
+  TODO: your dissertation (earth-computers) is almost certainly your strongest
+  work — MSP430 bare-metal firmware plus host tooling and a hardware-in-the-loop
+  harness. It is private. Decide whether to add a non-linked entry describing
+  it, or leave it for conversations.
 -->
 
 ---
