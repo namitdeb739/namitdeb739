@@ -18,7 +18,7 @@ Computer scientist interested in sustainable applications of technology.
 
 [![Website](https://img.shields.io/badge/namitdeb739.github.io-1e66f5?style=for-the-badge&logo=astro&logoColor=white)](https://namitdeb739.github.io)
 [![Email](https://img.shields.io/badge/Email-d20f39?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namitdeb739@gmail.com)
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namitdeb739)](www.linkedin.com/in/namitdeb739)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namitdeb739)
 
 </div>
 
@@ -28,14 +28,7 @@ Computer scientist interested in sustainable applications of technology.
 
 ## Currently
 
-<!--
-  TODO: 2-3 short lines. Your dissertation is the anchor — what problem, why
-  it matters. earth-computers is private, so decide how much to say.
--->
-
-TODO: what you're building right now
-
-TODO: what you're learning
+Working on my undergraduate thesis, developing soil-powered 
 
 </div>
 
