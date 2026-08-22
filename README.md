@@ -72,27 +72,47 @@ Working on my undergraduate thesis, developing soil-powered
 
 ## Projects
 
-> ### earth-computers · undergraduate thesis
->
-> Soil-powered computing. Bare-metal C firmware on an MSP430FR5994, with
-> host-side Python tooling and a hardware-in-the-loop test harness for
-> repeatable measurement against real hardware.
->
-> <!--
->   TODO: one line on the research contribution — what question it answers and
->   why it matters. That framing is yours, not something to be inferred.
->   TODO: consider adding energy-harvesting / intermittent-computing detail if
->   that is accurate; the FRAM-based MSP430FR5994 suggests it, but confirm.
-> -->
->
-> ![C](https://img.shields.io/badge/-bare--metal_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-> ![MSP430](https://img.shields.io/badge/-MSP430FR5994-CC0000?style=flat-square&logoColor=white)
-> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
->
-> *Private repository — happy to talk through it.*
-
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### earth-computers · bachelor's thesis
+
+Soil-powered computing. Bare-metal C on an MSP430FR5994, with host-side Python
+tooling and a hardware-in-the-loop harness for repeatable measurement against
+real hardware.
+
+<!-- TODO: one line on the research contribution — what question it answers.
+     That framing is yours, not something to infer. -->
+
+![C](https://img.shields.io/badge/-bare--metal_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![MSP430](https://img.shields.io/badge/-MSP430FR5994-CC0000?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<sub>Private repository</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [career-detective](https://github.com/namitdeb739/career-detective)
+
+AI-powered job search tool for the German tech industry.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [leonus-cansat-2025](https://github.com/namitdeb739/leonus-cansat-2025)
+
+Ground control software for the LeoNUS CanSat competition — live telemetry
+ingest, decoding and display.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
 <td width="50%" valign="top">
 
 ### [ring-chilling](https://github.com/namitdeb739/ring-chilling)
@@ -104,51 +124,13 @@ an ESP32 to control air-conditioning over IR.
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
-
-### [leonus-cansat-2025](https://github.com/namitdeb739/leonus-cansat-2025)
-
-Ground control software for the LeoNUS CanSat competition — live telemetry
-ingest, decoding and display.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [career-detective](https://github.com/namitdeb739/career-detective)
-
-AI-powered job search tool for the German tech industry.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [python-template](https://github.com/namitdeb739/python-template)
-
-Project template enforcing uv, ruff, `mypy --strict`, pytest, Docker and
-CodeQL from the first commit.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
 </tr>
 </table>
 
 <!--
-  Four, chosen to show range: embedded C++, telemetry systems, an applied-AI
-  app, and engineering rigour. Deliberately omitted because they dilute rather
-  than add — notion-automations (personal scripts), dotfiles (meta),
-  travel-tracker and beerathon (older, JS/small).
-
-  TODO: your dissertation (earth-computers) is almost certainly your strongest
-  work — MSP430 bare-metal firmware plus host tooling and a hardware-in-the-loop
-  harness. It is private. Decide whether to add a non-linked entry describing
-  it, or leave it for conversations.
+  Ordered by recency: thesis (ongoing), career-detective (Aug 2026),
+  leonus-cansat-2025 (Jun 2025), ring-chilling (Sep 2024).
+  python-template was replaced by the thesis entry.
 -->
 
 ---
