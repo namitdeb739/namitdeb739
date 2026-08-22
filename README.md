@@ -4,10 +4,11 @@
   Facts (projects, links, languages) are real, pulled from your repos.
   Anything marked TODO is yours to write. Delete these comments as you go.
 
-  Deliberately NOT used: github-readme-stats / streak-stats cards. They were
-  returning 503 while this was written, and a dead third-party service renders
-  as a broken image on your profile. Commented-out snippets are at the bottom
-  if you want to gamble on them later.
+  Stats cards use github-profile-summary-cards only. Two others were tried and
+  dropped: github-readme-stats returns 503, and streak-stats returns 200 to a
+  direct request but 504 through GitHub's camo image proxy — it renders as a
+  broken image on the profile even though the URL looks healthy. Test any new
+  card through camo, not just with curl.
 -->
 
 <div align="center">
@@ -60,13 +61,6 @@ This could have major applications in the future of the agriculture industry!
 ![ruff](https://img.shields.io/badge/ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
 ![mypy](https://img.shields.io/badge/mypy_--strict-2A6DB2?style=flat-square)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-<sub>
-
-<!-- TODO: add anything missing that you'd want to be asked about — RTOS, PCB
-     work, signal processing, specific MCUs. Slugs: simpleicons.org -->
-
-</sub>
 
 </div>
 
@@ -156,10 +150,10 @@ an ESP32 to control air-conditioning over IR.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=namitdeb739&theme=catppuccin_mocha&hide_border=true">
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namitdeb739&theme=nord_dark">
   <img
-    src="https://streak-stats.demolab.com/?user=namitdeb739&theme=catppuccin_latte&hide_border=true"
-    alt="Contribution streak">
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namitdeb739&theme=nord_bright"
+    alt="Profile summary">
 </picture>
 
 <picture>
