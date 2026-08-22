@@ -72,6 +72,25 @@ Working on my undergraduate thesis, developing soil-powered
 
 ## Projects
 
+> ### earth-computers · undergraduate thesis
+>
+> Soil-powered computing. Bare-metal C firmware on an MSP430FR5994, with
+> host-side Python tooling and a hardware-in-the-loop test harness for
+> repeatable measurement against real hardware.
+>
+> <!--
+>   TODO: one line on the research contribution — what question it answers and
+>   why it matters. That framing is yours, not something to be inferred.
+>   TODO: consider adding energy-harvesting / intermittent-computing detail if
+>   that is accurate; the FRAM-based MSP430FR5994 suggests it, but confirm.
+> -->
+>
+> ![C](https://img.shields.io/badge/-bare--metal_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+> ![MSP430](https://img.shields.io/badge/-MSP430FR5994-CC0000?style=flat-square&logoColor=white)
+> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+>
+> *Private repository — happy to talk through it.*
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -134,21 +153,40 @@ CodeQL from the first commit.
 
 ---
 
+---
+
+<div align="center">
+
+## Stats
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=namitdeb739&theme=catppuccin_mocha&hide_border=true">
+  <img
+    src="https://streak-stats.demolab.com/?user=namitdeb739&theme=catppuccin_latte&hide_border=true"
+    alt="Contribution streak">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namitdeb739&theme=nord_dark">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namitdeb739&theme=nord_bright"
+    alt="Most used languages">
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namitdeb739&theme=nord_dark">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namitdeb739&theme=nord_bright"
+    alt="Repositories per language">
+</picture>
+
+</div>
+
 <div align="center">
 <sub>TODO: a closing line, or delete this block</sub>
 </div>
-
-<!--
-  OPTIONAL — stats cards. Uncomment if the service is up; it was 503 when this
-  was written. Themes match the rest of your setup (Catppuccin Latte / Mocha).
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=namitdeb739&show_icons=true&theme=catppuccin_mocha&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=namitdeb739&show_icons=true&theme=catppuccin_latte&hide_border=true">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=namitdeb739&layout=compact&theme=catppuccin_mocha&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitdeb739&layout=compact&theme=catppuccin_latte&hide_border=true">
-  </picture>
--->
