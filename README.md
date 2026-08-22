@@ -18,7 +18,7 @@ Computer scientist interested in sustainable applications of technology.
 
 [![Website](https://img.shields.io/badge/namitdeb739.github.io-1e66f5?style=for-the-badge&logo=astro&logoColor=white)](https://namitdeb739.github.io)
 [![Email](https://img.shields.io/badge/Email-d20f39?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namitdeb739@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namitdeb739)
+[![LinkedIn][linkedin-badge]][linkedin]
 
 </div>
 
@@ -190,3 +190,13 @@ CodeQL from the first commit.
 <div align="center">
 <sub>TODO: a closing line, or delete this block</sub>
 </div>
+
+<!--
+  shields.io has no `logo=linkedin` — the slug renders nothing (verified: zero
+  <image> elements, same width as a badge with no logo at all, while gmail
+  renders one). The icon is therefore embedded from simple-icons as a data URI.
+-->
+<!-- markdownlint-disable MD013 -->
+[linkedin]: https://www.linkedin.com/in/namitdeb739
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=white
+<!-- markdownlint-enable MD013 -->
