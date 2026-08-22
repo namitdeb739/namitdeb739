@@ -182,7 +182,7 @@ an ESP32 to control air-conditioning over IR.
 </div>
 
 <div align="center">
-<sub>TODO: a closing line, or delete this block</sub>
+<sub>Feel free to reach out!</sub>
 </div>
 
 <!--
