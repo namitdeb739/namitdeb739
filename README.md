@@ -14,13 +14,11 @@
 
 # Namit Deb · নমিত দেব
 
-TODO: one line — what you do, and the thing that makes it specific.
-
-<!-- Avoid "passionate", "aspiring", "tech enthusiast". One line, not two. -->
+Computer scientist interested in sustainable applications of technology.
 
 [![Website](https://img.shields.io/badge/namitdeb739.github.io-1e66f5?style=for-the-badge&logo=astro&logoColor=white)](https://namitdeb739.github.io)
 [![Email](https://img.shields.io/badge/Email-d20f39?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namitdeb739@gmail.com)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-TODO-6c6f85?style=for-the-badge&logo=linkedin&logoColor=white)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namitdeb739)](www.linkedin.com/in/namitdeb739)
 
 </div>
 
