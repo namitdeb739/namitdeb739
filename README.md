@@ -28,7 +28,9 @@ Computer scientist interested in sustainable applications of technology.
 
 ## Currently
 
-Working on my undergraduate thesis, developing soil-powered 
+Working on my undergraduate thesis, developing low-power computers with
+wireless communications capabilities powered by soil microbial fuel-cells.
+This could have major applications in the future of the agriculture industry!
 
 </div>
 
@@ -74,16 +76,13 @@ Working on my undergraduate thesis, developing soil-powered
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### earth-computers · bachelor's thesis
 
-Soil-powered computing. Bare-metal C on an MSP430FR5994, with host-side Python
-tooling and a hardware-in-the-loop harness for repeatable measurement against
-real hardware.
-
-<!-- TODO: one line on the research contribution — what question it answers.
-     That framing is yours, not something to infer. -->
+Low-power computers with wireless communication, powered by soil microbial
+fuel-cells. Bare-metal C on an MSP430FR5994, with host-side Python tooling and
+a hardware-in-the-loop harness for repeatable measurement against real hardware.
 
 ![C](https://img.shields.io/badge/-bare--metal_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![MSP430](https://img.shields.io/badge/-MSP430FR5994-CC0000?style=flat-square&logoColor=white)
@@ -92,6 +91,8 @@ real hardware.
 <sub>Private repository</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [career-detective](https://github.com/namitdeb739/career-detective)
@@ -99,6 +100,17 @@ real hardware.
 AI-powered job search tool for the German tech industry.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [kittcat](https://github.com/namitdeb739/kittcat)
+
+Automated bag-handling prototype — an ATmega328 state machine driving servos,
+stepper and solenoid from laser, PIR, pressure and limit-switch inputs.
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
 
 </td>
 </tr>
@@ -128,9 +140,9 @@ an ESP32 to control air-conditioning over IR.
 </table>
 
 <!--
-  Ordered by recency: thesis (ongoing), career-detective (Aug 2026),
-  leonus-cansat-2025 (Jun 2025), ring-chilling (Sep 2024).
-  python-template was replaced by the thesis entry.
+  Newest first: thesis (ongoing), career-detective (Aug 2026),
+  kittcat (Feb 2026), leonus-cansat-2025 (Jun 2025), ring-chilling (Sep 2024).
+  The thesis spans both columns as the headline entry.
 -->
 
 ---
